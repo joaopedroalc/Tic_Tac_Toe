@@ -1,0 +1,10 @@
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.board{
+  border: 10px solid red;
+  border-radius: 5px;
+  width: max-content;
+}
